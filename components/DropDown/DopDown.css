@@ -1,0 +1,10 @@
+.dropdown{
+    display: inline-block;
+    min-width: 5ch;
+    padding: .5rem 1rem;
+    border-radius: 1rem 1rem;
+    background-color: #fff;
+    border: 0;
+    box-shadow: 0 0 4px #ccc;
+    font-weight: 600;
+}

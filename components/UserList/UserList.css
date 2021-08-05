@@ -1,0 +1,18 @@
+.user-list{
+    margin: 1rem 0 0 1rem;
+    padding: 0;
+}
+.user-list > li{
+    list-style: none;
+    letter-spacing: 1px;
+    line-height: 2;
+    transition: all .5s ease-in;
+    padding-left: 1rem;
+    border-radius: 1rem 1rem;
+
+
+}
+.user-list > li:hover{
+    box-shadow: 0 0 1px #ccc;
+    background-color: rgb(183, 228, 248);
+}
